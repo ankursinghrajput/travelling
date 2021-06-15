@@ -1,0 +1,49 @@
+.one{
+    background-color: white;
+}
+.two{
+    background-color: white;
+}
+.three{
+    background-color: white;
+}
+.four{
+    background-color: white;
+}
+#title{
+    background-color:  #47597E;
+}
+h1{
+    text-align: center;
+    color:rgb(233, 233, 119);
+    font-family:  'Stint Ultra Condensed', cursive;
+}
+.greet{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    font-family: 'Sacramento', cursive;
+}
+.cen{
+    text-align: center;
+}
+#shape{
+    text-align: center;
+}
+.sign-in{
+    font-size: 30px;
+    color:rgb(219, 219, 219);
+}
+.xyz{
+    color:rgb(219, 219, 219);
+}
+.dec{
+    text-align: center;
+    font-size: 10px;
+}
+.end{
+    text-align: center;
+}
+img:hover{
+    background-color: grey;
+}
